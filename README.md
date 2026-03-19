@@ -6,7 +6,7 @@ Physicochemical and elemental analysis of water samples across 11 sites
 in Abuja — comparing Rainy Season (July 2023) and Dry Season (March 2024).
 
 ## Files
-- [Live Dashboard](https://etudaiyeanomi.github.io/water-quality-analysis/dashboard.html)
+- [Live Dashboard](https://etudaiyeanomi.github.io/water-quality-analysis/water_quality_dashboard.html)
 - [SQL Queries](water_analysis_SQL_queries.sql)
 - [Power BI Queries](water_analysis_PowerBI_queries.pq)
 
